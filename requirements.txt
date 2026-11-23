@@ -1,0 +1,8 @@
+# Strava MCP Server Dependencies (Python 3.8 compatible)
+# HTTP and API communication
+requests==2.31.0          # HTTP library for making API calls to Strava
+
+# Configuration and environment management
+python-dotenv==1.0.0      # Load environment variables from .env files
+
+pymongo==4.17.0

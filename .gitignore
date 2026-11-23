@@ -2,3 +2,12 @@
 /dump.txt
 /result.csv
 /tokens.json
+.env
+.env.local
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+comments_update_state.json
+results_csv/
+updid.log
